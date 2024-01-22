@@ -1,6 +1,0 @@
-ErrorDocument 500 /.errorHandler/
-ErrorDocument 404 /.errorHandler/
-ErrorDocument 403 /.errorHandler/
-ErrorDocument 401 /.errorHandler/
-ErrorDocument 400 /.errorHandler/
-Options All -Indexes
