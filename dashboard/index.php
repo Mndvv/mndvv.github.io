@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Something Went Wrong</title>
+	<title>RockstoneAIO</title>
 	<style>
 		@font-face{
 		margin: auto;
